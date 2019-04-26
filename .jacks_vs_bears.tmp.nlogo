@@ -341,7 +341,7 @@ ini_trees
 ini_trees
 5
 500
-35.0
+100.0
 5
 1
 NIL
@@ -455,7 +455,7 @@ ini_jacks
 ini_jacks
 10
 100
-80.0
+20.0
 5
 1
 NIL
@@ -470,7 +470,7 @@ ini_bears
 ini_bears
 2
 50
-12.0
+2.0
 5
 1
 NIL
